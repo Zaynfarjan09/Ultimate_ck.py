@@ -2,3 +2,4 @@ telethon
 aiohttp
 urllib3
 flask
+curl_cffi
